@@ -1,0 +1,5 @@
+imp=logtype,time,win_price,client_ip,win_response_time,reserved1,reserved2,reserved3,reserved4,reserved5,bid_id,exchange_user_id,bilin_user_id,ad_exchange,campaign_id,line_item_id,creative_id,user_ip,domain,url,language,os,browser,device,size,site_category,bid_price,minimum_cpm,time_zone,view_type,view_screen,geo_info,user_category,page_type,user_gender,page_vertical,adslot_visibility,adslot_type,page_quality,site_quality,bid_req_start_time,at,protocal,is_iframed_allowed
+clk=logtype,time,client_ip,reserved1,reserved2,reserved3,reserved4,reserved5,bid_id,exchange_user_id,bilin_user_id,ad_exchange,campaign_id,line_item_id,creative_id,user_ip,domain,url,language,os,browser,device,size,site_category,bid_price,minimum_cpm,time_zone,view_type,view_screen,geo_info,user_category,page_type,user_gender,page_vertical,adslot_visibility,adslot_type,page_quality,site_quality,bid_req_start_time,at,protocal,is_iframed_allowed
+campaign_id=0Duv9P9Muq
+lineitem_id=0FSYFjIBIR
+bilin_ci=100197

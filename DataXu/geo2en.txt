@@ -1,0 +1,1 @@
+/tmp/hadoop-luo/mapred/local/1419327010403/geo2en.txt
